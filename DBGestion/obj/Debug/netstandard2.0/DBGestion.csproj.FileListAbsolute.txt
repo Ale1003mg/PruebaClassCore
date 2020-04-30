@@ -1,0 +1,6 @@
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\PruebaClassCore\DBGestion\obj\Debug\netstandard2.0\DBGestion.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\PruebaClassCore\DBGestion\obj\Debug\netstandard2.0\DBGestion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\PruebaClassCore\DBGestion\obj\Debug\netstandard2.0\DBGestion.RazorAssemblyInfo.cache
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\PruebaClassCore\DBGestion\obj\Debug\netstandard2.0\DBGestion.RazorAssemblyInfo.cs
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\PruebaClassCore\DBGestion\obj\Debug\netstandard2.0\DBGestion.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\PruebaClassCore\DBGestion\obj\Debug\netstandard2.0\DBGestion.AssemblyInfo.cs
